@@ -1,0 +1,8 @@
+name: lobbyMoney
+main: com.mcndsj.lobbyMoney.Lobby_Money
+version: 0.0.1-SNAPSHOT
+depend: [LobbyDisplay, Vault]
+commands:
+  givepoints:
+    description: Main command!
+    aliases: [givepoints]
